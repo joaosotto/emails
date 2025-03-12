@@ -59,6 +59,3 @@ Essa requisição enviará a mensagem "Mensagem de teste" para o canal configura
 - Axios (Biblioteca para requisições HTTP)
 - Dotenv (Gerenciamento de variáveis de ambiente)
 
-## Licença
-Este projeto está licenciado sob os termos da licença MIT.
-
